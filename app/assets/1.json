@@ -1,0 +1,19 @@
+{
+    "name": "Dashgil-mud-volcano",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "ApMnVQ9YffH2dQtyXgXfpVxDp1GbEL1mQxPsKD5amoKm",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "Colima-Volcano",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "ApMnVQ9YffH2dQtyXgXfpVxDp1GbEL1mQxPsKD5amoKm",
+          "share": 100
+        }
+      ]
+    }
+  }
